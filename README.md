@@ -1,3 +1,4 @@
+[Industrial-Fastener-Sorting-AI.ipynb](https://github.com/user-attachments/files/29573916/Industrial-Fastener-Sorting-AI.ipynb)
 # Real-Time Industrial Fastener Sorting AI
 
 An Industry 4.0 computer vision application built with **YOLOv8** to automate quality control and object localization on manufacturing production lines. This deep learning system is custom-trained to instantly detect and classify core mechanical fasteners (Nuts, Bolts, and Washers) in real-time video streams.
